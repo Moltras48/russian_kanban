@@ -17,10 +17,15 @@
 Пример:
 
 POSTGRES_USERNAME=postgres
+
 POSTGRES_PASSWORD=Password1
+
 POSTGRES_HOST=database
+
 POSTGRES_PORT=5432
+
 POSTGRES_DBNAME=postgres
+
 JWT_SECRET=myjwtsecret
 
 Запускайте docker-compose up
